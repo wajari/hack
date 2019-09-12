@@ -5,4 +5,6 @@ Queso
 Pan
 Huevos
 Naranjas
-
+Manzanas
+Higos 
+Bacon
