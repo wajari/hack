@@ -8,3 +8,9 @@ Naranjas
 Manzanas
 Higos 
 Bacon
+
+## Frutas
+
+Tomate
+Pera
+Melocotón
